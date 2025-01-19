@@ -1,0 +1,59 @@
+{
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/%E8%87%BA%E9%90%B5%E9%B6%AF%E6%AD%8C%E8%BB%8A%E7%AB%99.jpg",
+      "size": "full",
+      "aspectRatio": "20:13",
+      "aspectMode": "cover",
+      "action": {
+        "type": "uri",
+        "uri": "https://line.me/"
+      }
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "交通情報",
+          "weight": "bold",
+          "size": "xxl"
+        }
+      ]
+    },
+    "footer": {
+      "type": "box",
+      "layout": "vertical",
+      "spacing": "sm",
+      "contents": [
+        {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "バス🚌",
+            "text": "バス"
+          }
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "地下鉄🚄",
+            "text": "地下鉄"
+          }
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "自転車🚲",
+            "text": "自転車"
+          }
+        }
+      ],
+      "flex": 0
+    }
+  }
+  

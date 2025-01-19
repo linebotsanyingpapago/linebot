@@ -1,0 +1,42 @@
+
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://storage.googleapis.com/smiletaiwan-cms-cwg-tw/article/202409/article-66f3ca4340de8.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "鶯歌産地開放デー",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "紹介🍶",
+              "text": "鶯歌産地開放デー紹介"
+            },
+            "offsetTop": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    }
+  ]
+}
+

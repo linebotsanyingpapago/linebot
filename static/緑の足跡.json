@@ -1,0 +1,59 @@
+{
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://c2.staticflickr.com/2/1812/29125206008_992ca0fc05_o.png",
+      "size": "full",
+      "aspectRatio": "20:13",
+      "aspectMode": "cover",
+      "action": {
+        "type": "uri",
+        "uri": "https://line.me/"
+      }
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "綠の足跡",
+          "weight": "bold",
+          "size": "xxl"
+        }
+      ]
+    },
+    "footer": {
+      "type": "box",
+      "layout": "vertical",
+      "spacing": "sm",
+      "contents": [
+        {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "紹介💬",
+            "text": "綠の足跡紹介"
+          }
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "絵本の世界に入る📗(TW)",
+            "text": "綠色足跡影片(中)"
+          }
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "絵本の世界に入る📗(EN)",
+            "text": "綠色足跡影片(英)"
+          }
+        }
+      ],
+      "flex": 0
+    }
+  }
+  

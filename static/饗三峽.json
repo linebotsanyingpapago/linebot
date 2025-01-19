@@ -1,0 +1,607 @@
+
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://almablog.com.tw/wp-content/uploads/2023/07/LINE_ALBUM_230718_18.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "河南砂鍋手工扯麵",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "📍",
+                "flex": 5,
+                "size": "sm"
+              },
+              {
+                "type": "text",
+                "text": "237新北市三峽區光明路26號",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "237新北市三峽區光明路26號",
+                    "color": "#4682b4"
+                  }
+                ],
+                "flex": 50,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://maps.app.goo.gl/dRuVzEyHxD29CFFf9"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "size": "xs",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "店家資訊",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "店家資訊",
+                        "color": "#696969"
+                      }
+                    ],
+                    "flex": 60,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://www.facebook.com/p/%E6%B2%B3%E5%8D%97%E6%89%8B%E5%B7%A5%E6%89%AF%E9%BA%B5-100036538856505/"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "簡介",
+              "text": "河南砂鍋手工扯麵簡介"
+            },
+            "offsetTop": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://imageproxy.pixnet.cc/imgproxy?url=https://pic.pimg.tw/smilecat1215/1721027451-2259620528-g_n.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "真本家雞蛋糕",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "📍",
+                "flex": 5,
+                "size": "sm"
+              },
+              {
+                "type": "text",
+                "text": "237新北市三峽區中園街20-1號",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "237新北市三峽區中園街20-1號",
+                    "color": "#4682b4"
+                  }
+                ],
+                "flex": 50,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://maps.app.goo.gl/iMZUa4fk3xnUrzvq6"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "size": "xs",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "店家資訊",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "店家資訊",
+                        "color": "#696969"
+                      }
+                    ],
+                    "flex": 60,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://www.instagram.com/chen_ben_jia/"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "簡介",
+              "text": "真本家雞蛋糕簡介"
+            }
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5a/88/c9/caption.jpg?w=900&h=500&s=1",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "鄭記古早味豬血糕",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "📍",
+                "flex": 5,
+                "size": "sm"
+              },
+              {
+                "type": "text",
+                "text": "237新北市三峽區民權街87號",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "237新北市三峽區光明路26號",
+                    "color": "#4682b4"
+                  }
+                ],
+                "flex": 50,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://maps.app.goo.gl/2Fi8vhEG2i4FEthm8"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "size": "xs",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "店家資訊",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "店家資訊",
+                        "color": "#696969"
+                      }
+                    ],
+                    "flex": 60,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://www.facebook.com/p/%E9%84%AD%E8%A8%98%E5%8F%A4%E6%97%A9%E5%91%B3%E8%B1%AC%E8%A1%80%E7%B3%95-100054449261016/?locale=zh_TW"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "簡介",
+              "text": "鄭記古早味豬血糕簡介"
+            }
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://auntie.tw/wp-content/uploads/2023/01/20241002kgdhk.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "山泉水手工豆花店",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "📍",
+                "flex": 5,
+                "size": "sm"
+              },
+              {
+                "type": "text",
+                "text": "237新北市三峽區民生街149號",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "237新北市三峽區民生街149號",
+                    "color": "#4682b4"
+                  }
+                ],
+                "flex": 50,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://maps.app.goo.gl/YTTEN1ZX8R36dc236"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "size": "xs",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "店家資訊",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "店家資訊",
+                        "color": "#696969"
+                      }
+                    ],
+                    "flex": 60,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://nashgogogo.tw/shan-quanshui/"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "簡介",
+              "text": "山泉水手工豆花店簡介"
+            }
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://s.yimg.com/ny/api/res/1.2/VOuMEywPaqjWy0M66uCgAQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQ4MA--/https://media.zenfs.com/zh-Hant-TW/homerun/yahoo__216/3506a372dfa1668caf331ab00f6a74f4",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "來來滷味",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "📍",
+                "flex": 5,
+                "size": "sm"
+              },
+              {
+                "type": "text",
+                "text": "237新北市三峽區民權街105號",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "237新北市三峽區民權街105號",
+                    "color": "#4682b4"
+                  }
+                ],
+                "flex": 50,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://maps.app.goo.gl/37dGaP3XYmdahK8B9"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "size": "xs",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "店家資訊",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "店家資訊",
+                        "color": "#696969"
+                      }
+                    ],
+                    "flex": 60,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://www.facebook.com/p/%E4%B8%89%E5%B3%BD%E8%80%81%E8%A1%97-%E4%BE%86%E4%BE%86%E6%BB%B7%E5%91%B3-100063787066293/"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "簡介",
+              "text": "來來滷味簡介"
+            }
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://cdn.walkerland.com.tw/images/upload/poi/p108516/m70376/ee77a9437542b9cb8a2a2d50acffc6dfa034e155.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "MERLIN.M 梅林麵",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "📍",
+                "flex": 5,
+                "size": "sm"
+              },
+              {
+                "type": "text",
+                "text": "新北市三峽區大仁路27號",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "新北市三峽區大仁路27號",
+                    "color": "#4682b4"
+                  }
+                ],
+                "flex": 50,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://maps.app.goo.gl/fY3n7eZYKCyFwsmj7"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "size": "xs",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "店家資訊",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "店家資訊",
+                        "color": "#696969"
+                      }
+                    ],
+                    "flex": 60,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://www.facebook.com/Merlinsanxia/"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "簡介",
+              "text": "MERLIN.M梅林麵簡介"
+            }
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    }
+  ]
+}
+

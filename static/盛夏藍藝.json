@@ -1,0 +1,517 @@
+
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://a.bbkz.net/forum/attachment.php?attachmentid=1415466&thumb=1&d=1421930422",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "三峽藍染中心",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "📍",
+                "flex": 5,
+                "size": "sm"
+              },
+              {
+                "type": "text",
+                "text": "新北市三峽區中山路20巷3號",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "新北市三峽區中山路20巷3號",
+                    "color": "#4682b4"
+                  }
+                ],
+                "flex": 50,
+                "size": "md",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://maps.app.goo.gl/1fg5TUt2fcMVFfJ7A?g_st=il"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "none",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "flex": 5,
+                    "size": "xs"
+                  },
+                  {
+                    "type": "text",
+                    "text": "店家資訊",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "店家資訊",
+                        "color": "#696969"
+                      }
+                    ],
+                    "flex": 50,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://newtaipei.travel/zh-tw/attractions/detail/110546"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "簡介",
+              "text": "三峽藍染中心簡介"
+            },
+            "offsetTop": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ytimg.com/vi/rtOJkKyd3M8/sddefault.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "滿月圓國家森林遊樂區",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "📍",
+                "flex": 5,
+                "size": "sm"
+              },
+              {
+                "type": "text",
+                "text": "新北市三峽區有木里174-1號",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "新北市三峽區有木里174-1號",
+                    "color": "#4682b4"
+                  }
+                ],
+                "flex": 50,
+                "size": "md",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://maps.app.goo.gl/WgfcQfSetP3G3e7z7"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "none",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "flex": 5,
+                    "size": "xs"
+                  },
+                  {
+                    "type": "text",
+                    "text": "店家資訊",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "店家資訊",
+                        "color": "#696969"
+                      }
+                    ],
+                    "flex": 50,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://www.forest.gov.tw/0000183"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "簡介",
+              "text": "滿月圓國家森林遊樂區簡介"
+            },
+            "offsetTop": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://www.lnanews.com/imgnews/2021-03-30/2o5rqhkz9z0rufxsupp3x7i33.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "新北市客家文化園區",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "📍",
+                "flex": 5,
+                "size": "sm"
+              },
+              {
+                "type": "text",
+                "text": "新北市三峽區隆恩街239號",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "新北市三峽區隆恩街239號",
+                    "color": "#4682b4"
+                  }
+                ],
+                "flex": 50,
+                "size": "md",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://maps.app.goo.gl/2Tgq6Mx2ALZoiVUe6"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "none",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "flex": 5,
+                    "size": "xs"
+                  },
+                  {
+                    "type": "text",
+                    "text": "店家資訊",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "店家資訊",
+                        "color": "#696969"
+                      }
+                    ],
+                    "flex": 50,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://www.hakka.ntpc.gov.tw/tw/%E5%9C%92%E5%8D%80%E5%B1%95%E8%A6%BD2/%E5%B7%A7%E4%B9%8B%E8%97%9D%E5%BB%8A.html"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "簡介",
+              "text": "新北市客家文化園區簡介"
+            },
+            "offsetTop": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://storage.googleapis.com/smiletaiwan-cms-cwg-tw/ckeditor/202311/ckeditor-65446a7c7dfaf.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "庶民美術館",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "📍",
+                "flex": 5,
+                "size": "sm"
+              },
+              {
+                "type": "text",
+                "text": "新北市三峽區中正路100號",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "新北市三峽區中正路100號",
+                    "color": "#4682b4"
+                  }
+                ],
+                "flex": 50,
+                "size": "md",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://maps.app.goo.gl/osApfLhBhfY1LK3j6?g_st=com.google.maps.preview.copy"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "none",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "flex": 5,
+                    "size": "xs"
+                  },
+                  {
+                    "type": "text",
+                    "text": "店家資訊",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "店家資訊",
+                        "color": "#696969"
+                      }
+                    ],
+                    "flex": 50,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://www.facebook.com/SuChiungArtMuseum/?locale=zh_TW"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "簡介",
+              "text": "庶民美術館簡介"
+            },
+            "offsetTop": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://newtaipei.travel/content/images/shops/17102/1024x768_20160112110138.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "花岩山林",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "📍",
+                "flex": 5,
+                "size": "sm"
+              },
+              {
+                "type": "text",
+                "text": "新北市三峽區有木路104-1號",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "新北市三峽區有木路104-1號",
+                    "color": "#4682b4"
+                  }
+                ],
+                "flex": 50,
+                "size": "md",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://maps.app.goo.gl/dV1WHEsfpZeMc12G8?g_st=com.google.maps.preview.copy"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "none",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "flex": 5,
+                    "size": "xs"
+                  },
+                  {
+                    "type": "text",
+                    "text": "店家資訊",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "天氣資訊",
+                        "color": "#696969"
+                      }
+                    ],
+                    "flex": 50,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://www.cwa.gov.tw/V8/C/W/Town/Town.html?TID=6500900"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "簡介",
+              "text": "花岩山林簡介"
+            },
+            "offsetTop": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    }
+  ]
+}
+
+       

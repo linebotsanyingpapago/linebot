@@ -1,0 +1,58 @@
+{
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://i.imgur.com/Mn3ahEP.jpeg",
+      "size": "full",
+      "aspectRatio": "20:13",
+      "aspectMode": "cover",
+      "action": {
+        "type": "uri",
+        "uri": "https://line.me/"
+      }
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "Cultural Journey",
+          "weight": "bold",
+          "size": "xxl"
+        }
+      ]
+    },
+    "footer": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "Tea Village Story🍵",
+            "text": "TeaVillageStory"
+          }
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "Ceramic Art Tale🍶",
+            "text": "CeramicArtTale"
+          }
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "Dyeing Beauty🎽",
+            "text": "DyeingBeauty"
+          }
+        }
+      ]
+    }
+  }
+  
+  

@@ -1,0 +1,78 @@
+
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://s.yimg.com/ny/api/res/1.2/frShWlGvHlx1KIIMf.2RiA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2Mg--/https://media.zenfs.com/ko/news_ttv_com_tw_433/60b61c806bcbd3895e1fa3ec6b9a2a53",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "삼샤 쪽염색 축제",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "소개🎽",
+              "text": "삼샤쪽염색축제소개"
+            },
+            "offsetTop": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ytimg.com/vi/lACI-N-x-u0/maxresdefault.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "창의적인 용선 대회",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "소개🐉",
+              "text": "창의적인용선대회소개"
+            },
+            "offsetTop": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    }
+  ]
+}
+

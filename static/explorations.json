@@ -1,0 +1,153 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://storage.googleapis.com/smiletaiwan-cms-cwg-tw/article/202307/article-64b1228a3cd0a.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "https://line.me/"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Seasonal Exploration",
+            "weight": "bold",
+            "size": "xl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "link",
+            "height": "sm",
+            "action": {
+              "type": "message",
+              "label": "Spring Voyage🌸",
+              "text": "SpringVoyage"
+            }
+          },
+          {
+            "type": "button",
+            "style": "link",
+            "height": "sm",
+            "action": {
+              "type": "message",
+              "label": "Summer Indigo Journey☀️",
+              "text": "SummerIndigoJourney"
+            }
+          },
+          {
+            "type": "button",
+            "style": "link",
+            "height": "sm",
+            "action": {
+              "type": "message",
+              "label": "Autumn Stroll🍁",
+              "text": "AutumnStroll"
+            }
+          },
+          {
+            "type": "button",
+            "style": "link",
+            "height": "sm",
+            "action": {
+              "type": "message",
+              "label": "Winter Serenity Voyage❄️",
+              "text": "WinterSerenityVoyage"
+            }
+          }
+        ],
+        "flex": 0
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://newtaipei.travel/content/images/attractions/3210/1024x768_20140916164628.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "https://line.me/"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Festival Exploration",
+            "weight": "bold",
+            "size": "xl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "link",
+            "height": "sm",
+            "action": {
+              "type": "message",
+              "label": "Spring Celebrations🏮",
+              "text": "SpringCelebrations"
+            }
+          },
+          {
+            "type": "button",
+            "style": "link",
+            "height": "sm",
+            "action": {
+              "type": "message",
+              "label": "Summer Celebrations🐉",
+              "text": "SummerCelebrations"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "Autumn Celebrations🎑",
+              "text": "AutumnCelebrations"
+            },
+            "height": "sm",
+            "style": "link"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "Winter Celebrations🎄",
+              "text": "WinterCelebrations"
+            },
+            "height": "sm",
+            "style": "link"
+          }
+        ],
+        "flex": 0
+      }
+    }
+  ]
+}

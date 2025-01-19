@@ -1,0 +1,322 @@
+
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://imgcdn.cna.com.tw/www/postwrite/2022/20220720/00319975.20220720415386774M.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true,
+            "text": "光點藝術中心"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "📍",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "New Taipei City, Yingge District, Taoci St, 18號3 樓",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": " New Taipei City, Yingge District, Taoci St, 18號3 樓",
+                        "color": "#4682b4"
+                      }
+                    ],
+                    "flex": 55,
+                    "size": "md",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://maps.app.goo.gl/8ymp4zx1f32bqdVH7"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "flex": 5,
+                    "size": "sm"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Museum Information",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "Museum Information",
+                        "color": "#696969"
+                      }
+                    ],
+                    "flex": 42,
+                    "size": "md",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://www.yinggo.com.tw/"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "Introduction",
+              "text": "光點藝術中心Introduction"
+            },
+            "offsetTop": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://lh5.googleusercontent.com/p/AF1QipOgE93_NOegisHlQrQe_WQ9T9MFclEEZp2P9JZj=w408-h306-k-no",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true,
+            "text": "三鶯之心空間藝術特區"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "📍",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "Guanqian Rd, Yingge District, New Taipei City, 239",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "Guanqian Rd, Yingge District, New Taipei City, 239",
+                        "color": "#4682b4"
+                      }
+                    ],
+                    "flex": 51,
+                    "size": "md",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://maps.app.goo.gl/96VZpsJi87HpxdLW8"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "flex": 5,
+                    "size": "sm"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Weather Information",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "Weather Information",
+                        "color": "#696969"
+                      }
+                    ],
+                    "flex": 42,
+                    "size": "md",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://www.cwa.gov.tw/V8/E/W/County/County.html?CID=65"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "Introduction",
+              "text": "三鶯之心空間藝術特區Introduction"
+            },
+            "offsetTop": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://lh5.googleusercontent.com/p/AF1QipOgE93_NOegisHlQrQe_WQ9T9MFclEEZp2P9JZj=w408-h306-k-no",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true,
+            "text": "新北市美術館"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "📍",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "No. 300號, Guanqian Rd, Yingge District, New Taipei City, 239",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "No. 300號, Guanqian Rd, Yingge District, New Taipei City, 239",
+                        "color": "#4682b4"
+                      }
+                    ],
+                    "flex": 50,
+                    "size": "md",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://maps.app.goo.gl/68NJVjhLaT1iZUCE8"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "flex": 5,
+                    "size": "sm"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Museum Information",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "Museum Information",
+                        "color": "#696969"
+                      }
+                    ],
+                    "flex": 42,
+                    "size": "md",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://ntcart.museum/EN"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "Introduction",
+              "text": "新北市美術館Introduction"
+            },
+            "offsetTop": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    }
+  ]
+}
+
+

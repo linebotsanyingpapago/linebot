@@ -1,0 +1,173 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://storage.googleapis.com/smiletaiwan-cms-cwg-tw/article/202307/article-64b1228a3cd0a.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "https://line.me/"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "계절의 탐구",
+            "weight": "bold",
+            "size": "xl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "link",
+            "height": "sm",
+            "action": {
+              "type": "message",
+              "label": "봄의 여정🌸",
+              "text": "봄의여정"
+            }
+          },
+          {
+            "type": "button",
+            "style": "link",
+            "height": "sm",
+            "action": {
+              "type": "message",
+              "label": "여름 쪽빛 염색 여행☀️",
+              "text": "여름쪽빛염색여행"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [],
+            "margin": "sm"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "button",
+                "style": "link",
+                "height": "sm",
+                "action": {
+                  "type": "message",
+                  "label": "가을 여행🍁",
+                  "text": "가을여행"
+                }
+              },
+              {
+                "type": "button",
+                "style": "link",
+                "height": "sm",
+                "action": {
+                  "type": "message",
+                  "label": "겨울 고요의 여정❄️",
+                  "text": "겨울고요의여정"
+                }
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [],
+                "margin": "sm"
+              }
+            ],
+            "flex": 0
+          }
+        ],
+        "flex": 0
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://newtaipei.travel/content/images/attractions/3210/1024x768_20140916164628.jpg",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "action": {
+          "type": "uri",
+          "uri": "https://line.me/"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "축제 탐험",
+            "weight": "bold",
+            "size": "xxl"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "style": "link",
+            "height": "sm",
+            "action": {
+              "type": "message",
+              "label": "봄철 탐험🏮",
+              "text":"봄철탐험"
+            }
+          },
+          {
+            "type": "button",
+            "style": "link",
+            "height": "sm",
+            "action": {
+              "type": "message",
+              "label": "여름철 탐험🐉",
+              "text": "여름철탐험"
+            }
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "가을철 탐험🎑",
+              "text": "가을철탐험"
+            },
+            "height": "sm",
+            "style": "link"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "겨울철 탐험🎄",
+              "text": "겨울철탐험"
+            },
+            "height": "sm",
+            "style": "link"
+          }
+        ],
+        "flex": 0
+      }
+    }
+  ]
+}

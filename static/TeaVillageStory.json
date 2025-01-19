@@ -1,0 +1,67 @@
+
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.manpingou.com/uploads/allimg/180910/25-1P910113KO14.jpg",
+    "size": "full",
+    "aspectRatio": "20:13",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://line.me/"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Tea Village Story",
+        "weight": "bold",
+        "size": "xl"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "link",
+        "height": "sm",
+        "action": {
+          "type": "message",
+          "label": "Introduction💬",
+          "text": "TeaVillageStoryIntroduction"
+        },
+        "offsetTop": "sm"
+      },
+      {
+        "type": "button",
+        "style": "link",
+        "height": "sm",
+        "action": {
+          "type": "message",
+          "label": "Enter the picture book🍵(TW)",
+          "text": "茶鄉故事影片(中)"
+        },
+        "offsetTop": "sm"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "Enter the  picture book🍵(EN)",
+          "text": "茶鄉故事影片(英)"
+        },
+        "offsetTop": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+

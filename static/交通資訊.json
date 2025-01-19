@@ -1,0 +1,64 @@
+{
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/%E8%87%BA%E9%90%B5%E9%B6%AF%E6%AD%8C%E8%BB%8A%E7%AB%99.jpg",
+      "size": "full",
+      "aspectRatio": "20:13",
+      "aspectMode": "cover",
+      "action": {
+        "type": "uri",
+        "uri": "https://line.me/"
+      }
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "交通資訊",
+          "weight": "bold",
+          "size": "xxl"
+        }
+      ]
+    },
+    "footer": {
+      "type": "box",
+      "layout": "vertical",
+      "spacing": "sm",
+      "contents": [
+        {
+          "type": "button",
+          "style": "link",
+          "height": "md",
+          "action": {
+            "type": "message",
+            "label": "公車🚌",
+            "text": "公車"
+          }
+        },
+        {
+          "type": "button",
+          "style": "link",
+          "height": "sm",
+          "action": {
+            "type": "message",
+            "label": "捷運🚄",
+            "text":"捷運"
+          }
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "自行車🚲",
+            "text": "自行車"
+          }
+        }
+      ],
+      "flex": 0
+    }
+  }
+  
+  

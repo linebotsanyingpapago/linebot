@@ -1,0 +1,623 @@
+
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://travelwithlinlin.com/wp-content/uploads/ESUWA-%E8%82%89%E6%A1%82%E5%8D%B7%E5%8F%AF%E9%A0%8C%E5%B0%88%E5%A3%B2%E8%99%9506.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ESUWA 肉桂卷專売處",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "📍",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "New Taipei City, Yingge District, Yuying St, 67號3樓",
+                        "color": "#4682b4"
+                      }
+                    ],
+                    "text": "New Taipei City, Yingge District, Yuying St, 67號3樓",
+                    "flex": 50,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://maps.app.goo.gl/JH3y4ZrLHkeDj8xZA"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "flex": 5,
+                    "size": "sm"
+                  },
+                  {
+                    "type": "text",
+                    "text": "매장 정보",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "매장 정보",
+                        "color": "#696969"
+                      }
+                    ],
+                    "flex": 40,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://www.instagram.com/cafe_esuwa/"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "소개",
+              "text": "ESUWA肉桂卷專売處소개"
+            },
+            "offsetTop": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://live.staticflickr.com/65535/52688505361_28431e9f0d_b.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "阿婆壽司",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "📍",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "No. 63, Zhongzheng 1st Rd, Yingge District, New Taipei City, 239",
+                        "color": "#4682b4"
+                      }
+                    ],
+                    "text": "No. 63, Zhongzheng 1st Rd, Yingge District, New Taipei City, 239",
+                    "flex": 50,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://maps.app.goo.gl/KPBwXULQuLzN16BWA"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "flex": 5,
+                    "size": "sm"
+                  },
+                  {
+                    "type": "text",
+                    "text": "매장 정보",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "매장 정보",
+                        "color": "#696969"
+                      }
+                    ],
+                    "flex": 40,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://g.co/kgs/8S577Vu"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "소개",
+              "text": "阿婆壽司소개"
+            },
+            "offsetTop": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://newtaipei.travel/content/images/shops/60316/1024x768_shops-image-9ixqabrspk-0yd4kdn_cyg.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "甕仔麵",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "📍",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "239, New Taipei City, Yingge District, Chongqing St, 95號老街陶館（大煙囪2樓 2樓",
+                        "color": "#4682b4"
+                      }
+                    ],
+                    "text": "239, New Taipei City, Yingge District, Chongqing St, 95號老街陶館（大煙囪2樓 2樓",
+                    "flex": 50,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://maps.app.goo.gl/GpXBfgu1aeNXgCJi8"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "flex": 5,
+                    "size": "sm"
+                  },
+                  {
+                    "type": "text",
+                    "text": "매장 정보",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "매장 정보",
+                        "color": "#696969"
+                      }
+                    ],
+                    "flex": 40,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://www.facebook.com/yinggewzmgood/?locale=zh_TW"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "소개",
+              "text": "甕仔麵소개"
+            },
+            "offsetTop": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.batiau.com.tw/%E5%85%AB%E6%A2%9D%E5%A3%BD%E5%8F%B8/%E9%97%9C%E6%96%BC%E6%88%91%E5%80%91/aboutus_08.png",
+        "size": "full",
+        "aspectRatio": "320:213",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "八條壽司",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "📍",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "No. 435號, Nanya Rd, Yingge District, New Taipei City, 239",
+                        "color": "#4682b4"
+                      }
+                    ],
+                    "text": "No. 435號, Nanya Rd, Yingge District, New Taipei City, 239",
+                    "flex": 50,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://maps.app.goo.gl/3BcSDwdWfjrhp7ePA"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "flex": 5,
+                    "size": "sm"
+                  },
+                  {
+                    "type": "text",
+                    "text": "매장 정보",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "매장 정보",
+                        "color": "#696969"
+                      }
+                    ],
+                    "flex": 40,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://www.batiau.com.tw/"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "소개",
+              "text": "八條壽司소개"
+            },
+            "offsetTop": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_012Icx1G3rR6OXRD9biZr1ZAFRBgeBNKKUdjJFHK1tDsLMpOLKlV__4TlasFoBP51Lk&usqp=CAU",
+        "size": "full",
+        "aspectRatio": "320:213",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "勇伯垃圾麵",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "📍",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "No. 157號, Zhongzheng 1st Rd, Yingge District, New Taipei City, 239",
+                        "color": "#4682b4"
+                      }
+                    ],
+                    "text": "No. 157號, Zhongzheng 1st Rd, Yingge District, New Taipei City, 239",
+                    "flex": 50,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://maps.app.goo.gl/8EUn8jJzEDdMAKU26"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "flex": 5,
+                    "size": "sm"
+                  },
+                  {
+                    "type": "text",
+                    "text": "매장 정보",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "매장 정보",
+                        "color": "#696969"
+                      }
+                    ],
+                    "flex": 40,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://www.facebook.com/profile.php?id=100057685088787"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "소개",
+              "text": "勇伯垃圾麵소개"
+              
+            },
+            "offsetTop": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://grace-520.com/wp-content/uploads/2024/03/1706246066-3312382902-g.jpg",
+        "size": "full",
+        "aspectRatio": "320:213",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true,
+            "text": "厚道飲食店"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "📍",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "239, New Taipei City, Yingge District, 尖山埔路79號",
+                        "color": "#4682b4"
+                      }
+                    ],
+                    "text": "239, New Taipei City, Yingge District, 尖山埔路79號",
+                    "flex": 50,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://maps.app.goo.gl/yQehrZotZ4PvCFxw5"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "flex": 5,
+                    "size": "sm"
+                  },
+                  {
+                    "type": "text",
+                    "text": "매장 정보",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "매장 정보",
+                        "color": "#696969"
+                      }
+                    ],
+                    "flex": 40,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://www.facebook.com/hodow.tw/?locale=zh_TW"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "소개",
+              "text": "厚道飲食店소개"
+            },
+            "offsetTop": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    }
+  ]
+}
+
+

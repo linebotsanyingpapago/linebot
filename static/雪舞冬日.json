@@ -1,0 +1,48 @@
+
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://newtaipei.travel/content/images/articles/59636/1024x768_articles-image-ybw4qaatf0w1_szlksbqga.png",
+        "size": "full",
+        "aspectRatio": "320:213",
+        "margin": "none",
+        "aspectMode": "cover"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "鶯歌嘉年華",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": []
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "簡介🍶",
+              "text": "鶯歌嘉年華簡介"
+            },
+            "offsetTop": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    }
+  ]
+}
+

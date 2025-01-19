@@ -1,0 +1,48 @@
+
+{
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://img.ixintu.com/download/jpg/201912/d69016d02f0f85f821ae0a752365e584.jpg!con",
+      "size": "full",
+      "aspectRatio": "20:13",
+      "aspectMode": "cover",
+      "action": {
+        "type": "uri",
+        "uri": "https://line.me/"
+      }
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "Line Play",
+          "weight": "bold",
+          "size": "xxl"
+        }
+      ]
+    },
+    "footer": {
+      "type": "box",
+      "layout": "vertical",
+      "spacing": "sm",
+      "contents": [
+        {
+          "type": "button",
+          "style": "link",
+          "height": "sm",
+          "action": {
+            "type": "message",
+            "label": "소개🎮",
+            "text": "Lineplay소개"
+          },
+          "offsetTop": "sm"
+        }
+      ],
+      "flex": 0
+    }
+  }
+  
+  

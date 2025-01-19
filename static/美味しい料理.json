@@ -1,0 +1,49 @@
+{
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://mir-s3-cdn-cf.behance.net/projects/404/bc024059416565.Y3JvcCwzMTA2LDI0MzEsMCw0Mjk.png",
+      "size": "full",
+      "aspectRatio": "20:13",
+      "aspectMode": "cover",
+      "action": {
+        "type": "uri",
+        "uri": "https://line.me/"
+      }
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "美味しい料理",
+          "weight": "bold",
+          "size": "xxl"
+        }
+      ]
+    },
+    "footer": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "饗 • 三峡 🥐",
+            "text": "饗三峡日"
+          }
+        },
+        {
+          "type": "button",
+          "action": {
+            "type": "message",
+            "label": "饗 • 鶯歌 🍣",
+            "text": "饗鶯歌日"
+          }
+        }
+      ]
+    }
+  }
+  

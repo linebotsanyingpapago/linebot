@@ -1,0 +1,324 @@
+
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://dramastory2019.com/wp-content/uploads/2022/05/%E6%96%B0%E6%97%BA%E9%9B%86%E7%93%B744.png",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "新旺集瓷",
+            "size": "lg",
+            "wrap": true,
+            "flex": 5,
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "📍",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "No. 81, Jianshanpu Rd., Yingge Dist., New Taipei City 239002, Taiwan",
+                    "flex": 50,
+                    "size": "md",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://maps.app.goo.gl/rj2USxe4A7qRjMkS9?g_st=com.google.maps.preview.copy"
+                    },
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "No. 81, Jianshanpu Rd., Yingge Dist., New Taipei City 239002, Taiwan",
+                        "color": "#4682b4"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "Store Information",
+                    "flex": 45,
+                    "size": "md",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "http://www.shuandws.com/"
+                    },
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "Store Information",
+                        "color": "#696969"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "Introduction",
+              "text": "新旺集瓷Introduction"
+            },
+            "margin": "none",
+            "offsetTop": "xs"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://newtaipei.travel/content/images/attractions/4490/1024x768_fd10a9e2-1161-41a7-83f5-c21bb5ff6701.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "三鶯二橋自行車道",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "sm",
+                    "flex": 5,
+                    "text": "📍"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Sanyinger Bridge, Shulin District, New Taipei City",
+                    "flex": 50,
+                    "size": "md",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://maps.app.goo.gl/D52ujjzsvQNuQCoH7"
+                    },
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "Sanyinger Bridge, Shulin District, New Taipei City",
+                        "color": "#4682b4"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "Weather Information",
+                    "flex": 45,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://www.cwa.gov.tw/eng/#gsc.tab=0&gsc.sort="
+                    },
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "Weather Information",
+                        "color": "#696969"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "Introduction",
+              "text": "三鶯二橋Introduction"
+            },
+            "offsetTop": "xxl",
+            "offsetBottom": "none"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://www.taiwan.net.tw/pic.ashx?qp=1/big_scenic_spots/pic_9227_4.jpg&sizetype=3",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "鶯歌陶瓷博物館",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "📍",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "No. 200, Wenhua Rd, Yingge District, New Taipei City",
+                    "flex": 50,
+                    "size": "md",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://maps.app.goo.gl/nQBRFYsJgXWLRhHv5"
+                    },
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "No. 200, Wenhua Rd, Yingge District, New Taipei City",
+                        "color": "#4682b4"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "Museum Information",
+                    "flex": 45,
+                    "size": "md",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://en.ceramics.ntpc.gov.tw/"
+                    },
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "Museum Information",
+                        "color": "#696969"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "Introduction",
+              "text": "陶瓷博物館Introduction"
+            },
+            "offsetTop": "xxl"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    }
+  ]
+}
+
+

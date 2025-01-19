@@ -1,0 +1,322 @@
+
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://imgcdn.cna.com.tw/www/postwrite/2022/20220720/00319975.20220720415386774M.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "光點藝術中心",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "📍",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "新北市鶯歌區陶瓷街18號3 樓",
+                    "size": "md",
+                    "flex": 50,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://maps.app.goo.gl/iLzdvRzXU11kJpk69"
+                    },
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "新北市鶯歌區陶瓷街18號3 樓",
+                        "color": "#4682b4"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "flex": 5,
+                    "size": "sm"
+                  },
+                  {
+                    "type": "text",
+                    "text": "館內資訊",
+                    "size": "md",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://www.yinggo.com.tw/pages/%E9%97%9C%E6%96%BC%E5%85%89%E9%BB%9E"
+                    },
+                    "flex": 45,
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "館內資訊",
+                        "color": "#696969"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "簡介",
+              "text": "光點藝術中心簡介"
+            },
+            "offsetTop": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+   {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://lh5.googleusercontent.com/p/AF1QipOgE93_NOegisHlQrQe_WQ9T9MFclEEZp2P9JZj=w408-h306-k-no",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "三鶯之心空間藝術特區",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "📍",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "新北市鶯歌區館前路",
+                    "size": "md",
+                    "flex": 50,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://maps.app.goo.gl/yLbeUWyywSURnJr18"
+                    },
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "新北市鶯歌區館前路",
+                        "color": "#4682b4"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "flex": 5,
+                    "size": "sm"
+                  },
+                  {
+                    "type": "text",
+                    "text": "氣候資訊",
+                    "size": "md",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://www.cwa.gov.tw/V8/C/W/Town/Town.html?TID=6500800"
+                    },
+                    "flex": 45,
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "氣候資訊",
+                        "color": "#696969"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "簡介",
+              "text": "三鶯之心空間藝術特區簡介"
+            },
+            "offsetTop": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://newtaipei.travel/content/images/attractions/50080/1024x768_attractions-image-7fst15cifuqg1qi_pfsb8a.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "新北市美術館",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "📍",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "新北市鶯歌區館前路300號",
+                    "size": "md",
+                    "flex": 50,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://maps.app.goo.gl/uhUsYwfBekHsVoiE8"
+                    },
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "新北市鶯歌區館前路300號",
+                        "color": "#4682b4"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "flex": 5,
+                    "size": "sm"
+                  },
+                  {
+                    "type": "text",
+                    "text": "館內資訊",
+                    "size": "md",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://ntcart.museum/"
+                    },
+                    "flex": 45,
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "館內資訊",
+                        "color": "#696969"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "簡介",
+              "text": "新北市美術館簡介"
+            },
+            "offsetTop": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    }
+  ]
+}
+
+

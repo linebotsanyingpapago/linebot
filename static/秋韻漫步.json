@@ -1,0 +1,327 @@
+
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://dramastory2019.com/wp-content/uploads/2022/05/%E6%96%B0%E6%97%BA%E9%9B%86%E7%93%B744.png",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "新旺集瓷",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true,
+            "flex": 5
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "📍",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "新北市鶯歌區尖山埔路81號",
+                    "size": "md",
+                    "flex": 50,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://www.google.com/maps/place/%E6%96%B0%E6%97%BA%E9%9B%86%E7%93%B7/@24.9509139,121.3451707,752m/data=!3m2!1e3!4b1!4m6!3m5!1s0x34681eaca2bf7991:0x25f77409d0cacd0f!8m2!3d24.9509091!4d121.3477456!16s%2Fg%2F1tf5z0mc?authuser=0&entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "新北市鶯歌區尖山埔路81號",
+                        "color": "#4682b4"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "flex": 5,
+                    "size": "sm"
+                  },
+                  {
+                    "type": "text",
+                    "text": "店家資訊",
+                    "flex": 45,
+                    "size": "md",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "http://www.shuandws.com/"
+                    },
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "店家資訊",
+                        "color": "#696969"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "簡介",
+              "text": "新旺集瓷簡介"
+            },
+            "margin": "none"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+   {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://newtaipei.travel/content/images/attractions/4490/1024x768_fd10a9e2-1161-41a7-83f5-c21bb5ff6701.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "三鶯二橋自行車道",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true,
+            "flex": 5,
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "http://linecorp.com/"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "📍",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "xs",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "flex": 50,
+                    "size": "md",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://maps.app.goo.gl/D52ujjzsvQNuQCoH7"
+                    },
+                    "text": "新北市樹林區三鶯二橋",
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "新北市樹林區三鶯二橋",
+                        "color": "#4682b4"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "flex": 5,
+                    "size": "sm"
+                  },
+                  {
+                    "type": "text",
+                    "text": "氣候資訊",
+                    "size": "md",
+                    "flex": 45,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://www.cwa.gov.tw/V8/C/W/Town/Town.html?TID=6500800"
+                    },
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "氣候資訊",
+                        "color": "#696969"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "簡介",
+              "text": "三鶯二橋簡介"
+            },
+            "offsetTop": "xs"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://www.taiwan.net.tw/pic.ashx?qp=1/big_scenic_spots/pic_9227_4.jpg&sizetype=3",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "鶯歌陶瓷博物館",
+            "weight": "bold",
+            "size": "lg",
+            "flex": 5
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "📍",
+                    "wrap": true,
+                    "color": "#8c8c8c",
+                    "size": "sm",
+                    "flex": 5
+                  },
+                  {
+                    "type": "text",
+                    "text": "新北市鶯歌區文化路200號",
+                    "flex": 50,
+                    "size": "md",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://maps.app.goo.gl/mHQvPPfdi1FwmiVR9"
+                    },
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "新北市鶯歌區文化路200號",
+                        "color": "#4682b4"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "flex": 5,
+                    "size": "sm"
+                  },
+                  {
+                    "type": "text",
+                    "text": "館內資訊",
+                    "flex": 45,
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://www.ceramics.ntpc.gov.tw/"
+                    },
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "館內資訊",
+                        "color": "#696969"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "message",
+              "label": "簡介",
+              "text": "陶瓷博物館簡介"
+            },
+            "offsetTop": "sm"
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    }
+  ]
+}
+

@@ -1,0 +1,67 @@
+
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://imgs.699pic.com/images/402/552/168.jpg!list1x.v2",
+    "size": "full",
+    "aspectRatio": "20:13",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://line.me/"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "陶芸の物語",
+        "weight": "bold",
+        "size": "xl"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "link",
+        "height": "sm",
+        "action": {
+          "type": "message",
+          "label": "紹介💬",
+          "text": "陶芸の物語紹介"
+        }
+      },
+      {
+        "type": "button",
+        "style": "link",
+        "height": "sm",
+        "action": {
+          "type": "message",
+          "label": "絵本の世界に入る🍶(TW)",
+          "text": "陶藝物語影片(中)"
+        },
+        "offsetTop": "sm"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "絵本の世界に入る🍶(EN)",
+          "text": "陶藝物語影片(英)"
+        },
+        "offsetTop": "sm"
+      }
+    ],
+    "flex": 0
+  }
+}
+
+

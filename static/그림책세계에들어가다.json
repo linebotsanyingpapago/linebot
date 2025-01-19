@@ -1,0 +1,64 @@
+
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.manpingou.com/uploads/allimg/180910/25-1P910113KO14.jpg",
+    "size": "full",
+    "aspectRatio": "20:13",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://line.me/"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "차 마을 이야기",
+        "weight": "bold",
+        "size": "xl"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "link",
+        "height": "sm",
+        "action": {
+          "type": "message",
+          "label": "소개💬",
+          "text": "차 마을 이야기 소개"
+        }
+      },
+      {
+        "type": "button",
+        "style": "link",
+        "height": "sm",
+        "action": {
+          "type": "message",
+          "label": "그림책 세계에 들어가다🍵(TW)",
+          "text": "茶鄉故事影片(中)"
+        }
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "message",
+          "label": "그림책 세계에 들어가다🍵(EN)",
+          "text": "茶鄉故事影片(英)"
+        }
+      }
+    ],
+    "flex": 0
+  }
+}
+

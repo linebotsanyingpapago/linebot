@@ -1,0 +1,509 @@
+
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://i.ytimg.com/vi/pHLyktNBMPQ/maxresdefault.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "天芳茶行",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "📍",
+                "flex": 5,
+                "size": "sm"
+              },
+              {
+                "type": "text",
+                "text": "新北市三峽區成福路163號",
+                "flex": 50,
+                "contents": [
+                  {
+                    "type": "span",
+                    "color": "#4682b4",
+                    "text": "新北市三峽區成福路163號"
+                  }
+                ],
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://maps.app.goo.gl/tCh2dQL1oqfqYHtH6"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "flex": 5,
+                    "size": "xs"
+                  },
+                  {
+                    "type": "text",
+                    "text": "店家資訊",
+                    "flex": 60,
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "店家資訊",
+                        "color": "#696969"
+                      }
+                    ],
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://www.tianfangtea.tw/"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "簡介",
+                  "text": "天芳茶行簡介"
+                },
+                "offsetTop": "sm"
+              }
+            ]
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://www.thegreatroots.com/wp-content/uploads/2017/03/fe98dfdfa41e96f19585cd5cd171c45a.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "茶業歷史文物館",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "📍",
+                "flex": 5,
+                "size": "sm"
+              },
+              {
+                "type": "text",
+                "text": "新北市三峽區插角里, 插角79號",
+                "flex": 50,
+                "contents": [
+                  {
+                    "type": "span",
+                    "color": "#4682b4",
+                    "text": "新北市三峽區插角里, 插角79號"
+                  }
+                ],
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://maps.app.goo.gl/dBavwF4tFjzf4hmr7"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "flex": 5,
+                    "size": "xs"
+                  },
+                  {
+                    "type": "text",
+                    "text": "館內資訊",
+                    "flex": 60,
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "館內資訊",
+                        "color": "#696969"
+                      }
+                    ],
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://www.thegreatroots.com/leisure-facility/teamuseum/"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "簡介",
+                  "text": "茶業歷史文物館簡介"
+                },
+                "offsetTop": "sm"
+              }
+            ]
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://lh4.googleusercontent.com/proxy/-LgLh2oktBA2Ui6yHVr4l5v6qVbMFDVG_Px-gUSoSYxxGF6-Jk2t6FDm35CyoPQIOQdR8szCkRkAlLmcACr2j710_fjzDAK_Tb1_1_8EZlMhvyNdAQdFP9Mfo-MN",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "清水祖師廟",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "📍",
+                "flex": 5,
+                "size": "sm"
+              },
+              {
+                "type": "text",
+                "text": "新北市三峽區長福街1號",
+                "flex": 50,
+                "contents": [
+                  {
+                    "type": "span",
+                    "color": "#4682b4",
+                    "text": "新北市三峽區長福街1號"
+                  }
+                ],
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://maps.app.goo.gl/DPFq9GW5V9kceBDWA"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "flex": 5,
+                    "size": "xs"
+                  },
+                  {
+                    "type": "text",
+                    "text": "天氣資訊",
+                    "flex": 60,
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "店家資訊",
+                        "color": "#696969"
+                      }
+                    ],
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://newtaipei.travel/zh-tw/attractions/detail/109622"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "簡介",
+                  "text": "清水祖師廟簡介"
+                },
+                "offsetTop": "sm"
+              }
+            ]
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://x.miniwork.cc/userfiles/Sanxiastw/image/6158342970_4c8fc7a64c.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "李梅樹紀念館",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "📍",
+                "flex": 5,
+                "size": "sm"
+              },
+              {
+                "type": "text",
+                "text": "新北市三峽區中正路67號",
+                "flex": 50,
+                "contents": [
+                  {
+                    "type": "span",
+                    "color": "#4682b4",
+                    "text": "新北市三峽區中正路67號"
+                  }
+                ],
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://maps.app.goo.gl/hb9QPcBD7VnSknmz9?g_st=il"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "flex": 5,
+                    "size": "xs"
+                  },
+                  {
+                    "type": "text",
+                    "text": "店家資訊",
+                    "flex": 60,
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "店家資訊",
+                        "color": "#696969"
+                      }
+                    ],
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://www.limeishu.org.tw/"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "簡介",
+                  "text": "李梅樹紀念館簡介"
+                },
+                "offsetTop": "sm"
+              }
+            ]
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    },
+
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://icrvb3jy.xinmedia.com/solomo/article/D/3/1/D31D524C-E045-46C0-8A2E-10C0620E543A.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "鳶山",
+            "weight": "bold",
+            "size": "lg",
+            "wrap": true
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "📍",
+                "flex": 5,
+                "size": "sm"
+              },
+              {
+                "type": "text",
+                "text": "新北市三峽區中正路67號",
+                "flex": 50,
+                "contents": [
+                  {
+                    "type": "span",
+                    "color": "#4682b4",
+                    "text": "新北市三峽區鳶峰路"
+                  }
+                ],
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://maps.app.goo.gl/RyajUGHFq7LRtVv18"
+                }
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "baseline",
+                "spacing": "sm",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ℹ️",
+                    "flex": 5,
+                    "size": "xs"
+                  },
+                  {
+                    "type": "text",
+                    "text": "天氣資訊",
+                    "flex": 60,
+                    "contents": [
+                      {
+                        "type": "span",
+                        "text": "天氣資訊",
+                        "color": "#696969"
+                      }
+                    ],
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://www.cwa.gov.tw/V8/C/W/Town/Town.html?TID=6500900"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "簡介",
+                  "text": "鳶山簡介"
+                },
+                "offsetTop": "sm"
+              }
+            ]
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px"
+      }
+    }
+  ]
+}
+
+
